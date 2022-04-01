@@ -7,7 +7,7 @@ import Nvb from './Nvb';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-  
+
     <Nvb />
   </React.StrictMode>,
   document.getElementById('root')
